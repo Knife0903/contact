@@ -255,11 +255,6 @@ footer {
     float: right;
 }
 
-.mapimg {
-    border: 2px solid green;
-    width: 100%;
-}
-
 .main {
     overflow: hidden;
 }
